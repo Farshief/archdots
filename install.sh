@@ -34,6 +34,7 @@ function ping_check() {
 
 function partition_drive() {
 	echo "Partition Drive: "
+	#create partition schema programatically here
 }
 
 function create_filesystems() {
