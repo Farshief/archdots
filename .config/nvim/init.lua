@@ -10,3 +10,5 @@ vim.cmd("set clipboard=unnamedplus")
 vim.cmd("set cursorline")
 
 require("config.lazy")
+
+vim.cmd("colorscheme tokyonight")
