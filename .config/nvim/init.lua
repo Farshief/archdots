@@ -1,0 +1,12 @@
+vim.cmd("set number")
+vim.cmd("set nocompatible")
+vim.cmd("set showmatch")
+vim.cmd("set ignorecase")
+vim.cmd("set mouse=v")
+vim.cmd("set hlsearch")
+vim.cmd("syntax on")
+vim.cmd("set mouse=a")
+vim.cmd("set clipboard=unnamedplus")
+vim.cmd("set cursorline")
+
+require("config.lazy")
